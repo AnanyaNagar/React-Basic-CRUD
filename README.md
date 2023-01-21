@@ -1,3 +1,6 @@
+
+[![Project Demo](https://cdn.loom.com/sessions/thumbnails/1a82710c9cc24263ba00aefdf84aa4c6-with-play.gif)](https://www.loom.com/share/1a82710c9cc24263ba00aefdf84aa4c6)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
